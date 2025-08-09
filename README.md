@@ -9,7 +9,7 @@
 
 ## About me
 
-### Im a 20-year-old guy from the Dominican Republic studying Software Development
+### Im a 21-year-old guy from the Dominican Republic studying Software Development
 
 - 🎂 Birthday October 31st.
 - 👀 I’m interested in Linux
