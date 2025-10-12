@@ -1,7 +1,7 @@
 # This is Zeidant
 ![Views](https://komarev.com/ghpvc/?username=Zeidant39&color=blue)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&duration=1500&pause=800&random=true&width=435&lines=http%3A%2F%2F127.0.0.1%2Fmain.html;Touch+some+grass;zeidant.xyz;Glib+jocks+quiz+nymph+to+vex+dwarf;Zeidant's+Github+Page;Syntax+error)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&duration=1500&pause=800&random=true&width=435&lines=http%3A%2F%2F127.0.0.1%2Fmain.html;Touch+some+grass;zeidant.com;mc.zeidant.com;Glib+jocks+quiz+nymph+to+vex+dwarf;Zeidant's+Github+Page;Syntax+error)](https://git.io/typing-svg)
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&pause=1000&width=435&lines=http://127.0.0.1/main.html)](https://git.io/typing-svg) -->
 
